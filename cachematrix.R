@@ -1,9 +1,8 @@
-######### This script is an example of cache method that simplyfies time 
+######### This script is an example of cache method that simplifies time 
 ######### consuming computations
 ##
 ## Here we are calculating the inverse of a matrix memorize the results
 ## in order to speed up the repetitive function calls
-
 
 ## The following function creates a list of 4 elements(functions) 
 ## that will be used by the main function (cacheSolve) to look 
